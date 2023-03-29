@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    
+        justify-content: center;
+        display: flex;
+        margin: auto;
+        height: 550px;
+        width: 450px;
+    
+    
+}

@@ -1,0 +1,17 @@
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
+div{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+body{
+    background:url(../img/WhatsApp\ Image\ 2023-03-28\ at\ 4.10.49\ PM.jpeg);
+    background-size: cover;
+}
+a{
+    color: #ffffff;
+}
